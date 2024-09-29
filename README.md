@@ -1,1 +1,1 @@
-I'm starting learning C++
+There will be HomeWork01 here.
