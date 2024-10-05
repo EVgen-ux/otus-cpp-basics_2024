@@ -1,10 +1,9 @@
-#include "example.h"
-#include "move_me_out.h"
-
+#include "functions.h"
 #include <iostream>
 
 
-int main() {
+int main() 
+{
 	std::cout << "Hello, World!" << std::endl;
 
 	example_function();
